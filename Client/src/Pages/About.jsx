@@ -10,7 +10,7 @@ export default function About() {
             <p>
               Welcome to CEO Tech's Blog! This blog was created by Ekuase A. Imasuen
               as a personal project to share his thoughts and ideas with the
-              world. Ekuase is a passionate developer who loves to write about
+              world. Ekuase is a passionate Full Stack Developer who loves to write about
               technology, coding, and everything in between.
             </p>
 
