@@ -30,7 +30,7 @@ export default function Home() {
       </div>
 
       <div className="lg:py-24">
-      <h1 className='text-3xl font-bold lg:text-6xl'>Welcome to my Blog</h1>
+      <h1 className='text-3xl font-bold lg:text-6xl'>Welcome to myTech Space</h1>
 
         <p className="mt-4 text-gray-600">
           My name is Albert E. I. A Full Stack Application Developer and a Graphic Designer with over <span className='font-semibold underline'>5YEARS EXPERIENCE.</span> My Stack 
