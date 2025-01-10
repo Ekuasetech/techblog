@@ -62,7 +62,7 @@ export default function Home() {
               to={'/search'}
               className='text-lg text-white hover:underline text-center bg-black p-5 rounded-lg'
             ><marquee>
-              Click Here Explore My Web-Application Projects
+              Click Here Explore My Projects
               </marquee></Link>
             </div>
             
